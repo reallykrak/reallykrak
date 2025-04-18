@@ -138,7 +138,7 @@ https://really.krak.com
 <details>
   <summary>📝 Blog Posts / Medium Articles</summary>
 
-[![Medium](https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
+[![Medium](https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@reallykrak)
 
 </details>
 
