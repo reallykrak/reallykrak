@@ -153,7 +153,7 @@ https://really.krak.com
 <details>
   <summary> Now Playing</summary>
 
-![Now Playing](https://spotify-now-playing.vercel.app/api/spotify)
+![Now Playing](https://open.spotify.com/episode/4hNDpPhFfhC6eHQYzJPfFZ?si=UYJIBIIgT1qiNUV3BNmSOA)
 
 </details>
 
