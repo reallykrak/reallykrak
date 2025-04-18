@@ -19,7 +19,7 @@ https://really.krak.com
   <a href="https://www.reddit.com/u/reallykrak/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://open.spotify.com/user/reallykrak">
+  <a href="https://open.spotify.com/user/31qqa62yiffselam2nviay5nv3ca">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   <a href="https://www.instagram.com/reallykrakw/">
@@ -127,7 +127,7 @@ https://really.krak.com
 ## Extra Information
 
 <details>
-  <summary>🛡️ Extra Badges & Certifications</summary>
+  <summary> Extra Badges & Certifications</summary>
 
 ![Test Coverage](https://img.shields.io/badge/Test-100%25_Coverage-brightgreen?style=for-the-badge)  
 ![Open Source Contributor](https://img.shields.io/badge/Contributor-Open%20Source-blue?style=for-the-badge)  
@@ -136,14 +136,14 @@ https://really.krak.com
 </details>
 
 <details>
-  <summary>📝 Blog Posts / Medium Articles</summary>
+  <summary> Blog Posts / Medium Articles</summary>
 
 [![Medium](https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@reallykrak)
 
 </details>
 
 <details>
-  <summary>📊 Project Status Statistics</summary>
+  <summary> Project Status Statistics</summary>
 
 [![Discord Bot Users](https://img.shields.io/badge/DiscordBot-Active%20Users-orange?style=for-the-badge)](https://github.com/yourusername/discord-bot)  
 [![Commands Used](https://img.shields.io/badge/Commands-Used-informational?style=for-the-badge)](https://github.com/yourusername/discord-bot)
@@ -151,21 +151,21 @@ https://really.krak.com
 </details>
 
 <details>
-  <summary>🎵 Now Playing</summary>
+  <summary> Now Playing</summary>
 
 ![Now Playing](https://spotify-now-playing.vercel.app/api/spotify)
 
 </details>
 
 <details>
-  <summary>📈 Animated Contributions Calendar</summary>
+  <summary> Animated Contributions Calendar</summary>
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=reallykrak&theme=react-dark)
 
 </details>
 
 <details>
-  <summary>📜 My Journey</summary>
+  <summary> My Journey</summary>
 
 **Career Milestones:**  
 - **2015:** Started coding personal projects.  
@@ -176,7 +176,7 @@ https://really.krak.com
 </details>
 
 <details>
-  <summary>💼 Hire Me / Let's Collaborate</summary>
+  <summary> Hire Me / Let's Collaborate</summary>
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Contact%20me-brightgreen?style=for-the-badge)](mailto:notreallykrak)
 
