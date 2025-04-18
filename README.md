@@ -7,19 +7,19 @@
 https://github.com/user-attachments/assets/62d7f6e2-8993-4fbe-baa1-8a3b39f83c8d
 
 -->
-  [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)<br>
+  [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/reallykrak)<br>
 
 
 
 # Website:
 
-https://mido.anlayana.com
+https://really.krak.com
 
-![websitestatus](https://img.shields.io/website-up-down-green-red/http/mido.anlayana.com)
+![websitestatus](https://img.shields.io/website-up-down-green-red/http/really.krak.com)
 
 # ☕ Social:
 
-[![Discord](https://img.shields.io/badge/Discord:-Mid0Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4cDXFY5W) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Mid0aria/)
+[![Discord](https://img.shields.io/badge/Discord:-reallykrak-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4cDXFY5W) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Mid0aria/)
 
 ### Discord:
 
@@ -80,7 +80,7 @@ https://mido.anlayana.com
 
 # 📊 GitHub Stats:
 
-![Mid0aria's Github Stats](https://github-readme-stats.vercel.app/api?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![reallykrak's Github Stats](https://github-readme-stats.vercel.app/api?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mid0aria&theme=radical&hide_border=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
 
