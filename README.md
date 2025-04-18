@@ -22,7 +22,7 @@ https://really.krak.com
   <a href="https://open.spotify.com/user/reallykrak">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-  <a href="https://www.instagram.com/reallykrak/">
+  <a href="https://www.instagram.com/reallykrakw/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
