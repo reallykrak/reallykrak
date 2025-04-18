@@ -1,89 +1,195 @@
-<!-- <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&lines=El+Profesor+y+Lisboa" alt="Typing SVG"></a>
-<br>
-  <a href="https://wakatime.com/@mido"><img width="200px" title="https://wakatime.com/@89e089db-1038-4154-873c-fdcc5211f70d" src="https://wakatime.com/badge/user/89e089db-1038-4154-873c-fdcc5211f70d.svg?style=flat"/></a>
-</p>
+<!-- Custom Animated Banner -->
+<img src="https://example.com/animated-banner.gif" alt="Animated Banner" width="100%"/>
 
-https://github.com/user-attachments/assets/62d7f6e2-8993-4fbe-baa1-8a3b39f83c8d
-
--->
-  [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/reallykrak)<br>
-
-
+[![](https://visitcount.itsvg.in/api?id=reallykrak&icon=7&color=0)](https://github.com/reallykrak)<br>
 
 # Website:
-
 https://really.krak.com
 
-![websitestatus](https://img.shields.io/website-up-down-green-red/http/really.krak.com)
+![Website Status](https://img.shields.io/website-up-down-green-red/http/really.krak.com)
 
 # ☕ Social:
-
-[![Discord](https://img.shields.io/badge/Discord:-reallykrak-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4cDXFY5W) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Mid0aria/)
+<p align="center">
+  <a href="https://discord.gg/WzYXVbXt6C">
+    <img src="https://img.shields.io/badge/Discord-reallykrak-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://steamcommunity.com/id/reallykrak/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+  <a href="https://www.reddit.com/u/reallykrak/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://open.spotify.com/user/reallykrak">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="https://www.instagram.com/reallykrak/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ### Discord:
-
-<p align="center"><img src="https://lanyard.cnrad.dev/api/526822284694913042">
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/999406459106373722" alt="Discord Status Card">
+</p>
 
 # 💻 Tech Stack:
 
 <details>
   <summary>Languages</summary>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
+  <p align="center">
+    <table align="center">
+      <tr>
+        <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+        <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
+        <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+        <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></td>
+      </tr>
+      <tr>
+        <td colspan="4" style="background-color:#e0e0e0;">
+          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+        </td>
+      </tr>
+    </table>
+  </p>
 </details>
+
 <details>
   <summary>Softwares</summary>
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-3186A0?style=for-the-badge&logo=arduino&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
-
+  <p align="center">
+    <table align="center">
+      <tr>
+        <td><img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/></td>
+        <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></td>
+        <td><img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></td>
+        <td><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/></td>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></td>
+        <td><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" alt="Atom"/></td>
+        <td><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/></td>
+        <td><img src="https://img.shields.io/badge/Arduino%20IDE-3186A0?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/></td>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/></td>
+        <td colspan="3" style="background-color:#000000;">
+          <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++"/>
+        </td>
+      </tr>
+    </table>
+  </p>
 </details>
 
 <details>
   <summary>Systems</summary>
-  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
+  <p align="center">
+    <table align="center">
+      <tr>
+        <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></td>
+        <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></td>
+        <td><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/></td>
+        <td><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint"/></td>
+      </tr>
+      <tr>
+        <td colspan="4" style="background-color:#e0e0e0;">
+          <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" alt="Arch Linux"/>
+        </td>
+      </tr>
+    </table>
+  </p>
 </details>
 
 <details>
   <summary>Hardwares</summary>
-  
-![MotherBoard](https://img.shields.io/badge/MSI-B650%20Gaming%20Plus%20WiFi%20AMD%20AM5%20DDR5%20ATX-A4181D?style=for-the-badge&logo=MSI&logoColor=white) ![CPU](https://img.shields.io/badge/AMD-Ryzen_9_7950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/Radeon-RX%206600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-Vengeance%20RGB%2032GB%20(2x16GB)%206000MHz%20CL30-18576c?style=for-the-badge&logo=corsair&logoColor=white)
+  <p align="center">
+    <table align="center">
+      <tr>
+        <td><img src="https://img.shields.io/badge/MSI-B650%20Gaming%20Plus%20WiFi%20AMD%20AM5%20DDR5%20ATX-A4181D?style=for-the-badge&logo=MSI&logoColor=white" alt="MSI"/></td>
+        <td><img src="https://img.shields.io/badge/AMD-Ryzen_9_7950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Ryzen"/></td>
+        <td><img src="https://img.shields.io/badge/Radeon-RX%206600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Radeon RX 6600"/></td>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/Corsair-Vengeance%20RGB%2032GB%20(2x16GB)-18576c?style=for-the-badge&logo=corsair&logoColor=white" alt="Corsair"/></td>
+        <td><img src="https://img.shields.io/badge/Samsung-Galaxy%20A34%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung Galaxy A34 5G"/></td>
+        <td><img src="https://img.shields.io/badge/Xiaomi-POCO_F5-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" alt="Xiaomi POCO F5"/></td>
+      </tr>
+      <tr>
+        <td style="background-color:#000000;">
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+  </p>
+</details>
 
-![Samsung](https://img.shields.io/badge/Samsung-Galaxy%20A34%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=white) ![Xiaomi](https://img.shields.io/badge/Xiaomi-POCO_F5-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+<!-- Extra Information Section -->
+## Extra Information
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<details>
+  <summary>🛡️ Extra Badges & Certifications</summary>
+
+![Test Coverage](https://img.shields.io/badge/Test-100%25_Coverage-brightgreen?style=for-the-badge)  
+![Open Source Contributor](https://img.shields.io/badge/Contributor-Open%20Source-blue?style=for-the-badge)  
+![Node.js Specialist](https://img.shields.io/badge/Node.js-Specialist-blueviolet?style=for-the-badge)
 
 </details>
-       
-# ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mid0aria/owofarmbot,mid0aria/owofarmbotv2,Mid0aria/universal-bypass,Mid0aria/Umi-AIO&type=Date)](https://star-history.com/#Mid0aria/owofarmbot&mid0aria/owofarmbot_stable&Mid0aria/universal-bypass&Mid0aria/Umi-AIO&Date)
+<details>
+  <summary>📝 Blog Posts / Medium Articles</summary>
 
-# 📊 GitHub Stats:
+[![Medium](https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
 
-![reallykrak's Github Stats](https://github-readme-stats.vercel.app/api?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mid0aria&theme=radical&hide_border=false)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+</details>
 
-## 🏆 GitHub Trophies
+<details>
+  <summary>📊 Project Status Statistics</summary>
 
-![](https://github-profile-trophy.vercel.app/?username=mid0aria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Discord Bot Users](https://img.shields.io/badge/DiscordBot-Active%20Users-orange?style=for-the-badge)](https://github.com/yourusername/discord-bot)  
+[![Commands Used](https://img.shields.io/badge/Commands-Used-informational?style=for-the-badge)](https://github.com/yourusername/discord-bot)
+
+</details>
+
+<details>
+  <summary>🎵 Now Playing</summary>
+
+![Now Playing](https://spotify-now-playing.vercel.app/api/spotify)
+
+</details>
+
+<details>
+  <summary>📈 Animated Contributions Calendar</summary>
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=reallykrak&theme=react-dark)
+
+</details>
+
+<details>
+  <summary>📜 My Journey</summary>
+
+**Career Milestones:**  
+- **2015:** Started coding personal projects.  
+- **2017:** Became an active open source contributor.  
+- **2020:** Launched my flagship open source project.  
+- **2022:** Achieved over 10,000 GitHub stars.
+
+</details>
+
+<details>
+  <summary>💼 Hire Me / Let's Collaborate</summary>
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Contact%20me-brightgreen?style=for-the-badge)](mailto:notreallykrak)
+
+</details>
+
+<!-- Bottom Information -->
+
+⭐ **Star History:** [![Star History Chart](https://api.star-history.com/svg?repos=reallykrak/owofarmbot,reallykrak/owofarmbotv2,reallykrak/universal-bypass,reallykrak/Umi-AIO&type=Date)](https://star-history.com/#reallykrak/owofarmbot&reallykrak/owofarmbotv2&reallykrak/universal-bypass&reallykrak/Umi-AIO)
+
+📊 **GitHub Stats:**  
+![reallykrak's Github Stats](https://github-readme-stats.vercel.app/api?username=reallykrak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=reallykrak&theme=radical&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallykrak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+
+🏆 **GitHub Trophies:**  
+![](https://github-profile-trophy.vercel.app/?username=reallykrak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
