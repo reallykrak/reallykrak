@@ -178,7 +178,7 @@ https://really.krak.com
 <details>
   <summary> Hire Me / Let's Collaborate</summary>
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Contact%20me-brightgreen?style=for-the-badge)](mailto:notreallykrak)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Contact%20me-brightgreen?style=for-the-badge)](mailto:reallykrakw)
 
 </details>
 
