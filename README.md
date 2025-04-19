@@ -19,10 +19,10 @@ https://really.krak.com
   <a href="https://www.reddit.com/u/reallykrak/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://open.spotify.com/user/31qqa62yiffselam2nviay5nv3ca">
+  <a href="https://open.spotify.com/user/reallykrak">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-  <a href="https://www.instagram.com/reallykrakw/">
+  <a href="https://www.instagram.com/reallykrak/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -39,7 +39,8 @@ https://really.krak.com
   <p align="center">
     <table align="center">
       <tr>
-        <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+        <!-- CSS3 için renk kodundaki # karakteri URL encode edilmiştir -->
+        <td><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
         <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
         <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
         <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></td>
@@ -145,24 +146,12 @@ https://really.krak.com
 <details>
   <summary> Project Status Statistics</summary>
 
-[![Discord Bot Users](https://img.shields.io/badge/DiscordBot-Active%20Users-orange?style=for-the-badge)](https://github.com/yourusername/discord-bot)  
-[![Commands Used](https://img.shields.io/badge/Commands-Used-informational?style=for-the-badge)](https://github.com/yourusername/discord-bot)
+[![Discord Bot Users](https://img.shields.io/badge/DiscordBot-Active%20Users-orange?style=for-the-badge)](https://github.com/reallykrak/discord-bot)  
+[![Commands Used](https://img.shields.io/badge/Commands-Used-informational?style=for-the-badge)](https://github.com/reallykrak/discord-bot)
 
 </details>
 
-<details>
-  <summary> Now Playing</summary>
-
-![Now Playing](https://open.spotify.com/episode/4hNDpPhFfhC6eHQYzJPfFZ?si=UYJIBIIgT1qiNUV3BNmSOA)
-
-</details>
-
-<details>
-  <summary> Animated Contributions Calendar</summary>
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=reallykrak&theme=react-dark)
-
-</details>
+<!-- "Now Playing" ve "Animated Contributions Calendar" bölümleri kaldırıldı -->
 
 <details>
   <summary> My Journey</summary>
@@ -178,7 +167,7 @@ https://really.krak.com
 <details>
   <summary> Hire Me / Let's Collaborate</summary>
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Contact%20me-brightgreen?style=for-the-badge)](mailto:reallykrakw)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Contact%20me-brightgreen?style=for-the-badge)](mailto:reallykrakw@gmail.com)
 
 </details>
 
