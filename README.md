@@ -156,11 +156,11 @@ https://really.krak.com
 <details>
   <summary> My Journey</summary>
 
-**Career Milestones:**  
-- **2015:** Started coding personal projects.  
-- **2017:** Became an active open source contributor.  
-- **2020:** Launched my flagship open source project.  
-- **2022:** Achieved over 10,000 GitHub stars.
+**About me**  
+- **😪** yo everyone reallykrak me.  
+- **🥱** I have been working with software for 9 years.
+- **😛** I am going to university in the 3rd grade and I am 22 years old.
+- **🥶** I will present you nice projects discord bot, bots for games stay tuned.
 
 </details>
 
