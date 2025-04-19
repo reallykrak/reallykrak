@@ -1,5 +1,5 @@
 <!-- Custom Animated Banner -->
-<img src="https://example.com/animated-banner.gif" alt="Animated Banner" width="100%"/>
+<img src="https://github.com/reallykrak/reallykrak/blob/main/lv_0_20250404224812_out0001.png" alt="Animated Banner" width="100%"/>
 
 [![](https://visitcount.itsvg.in/api?id=reallykrak&icon=7&color=0)](https://github.com/reallykrak)<br>
 
