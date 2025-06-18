@@ -6,7 +6,7 @@
 # Website:
 https://really.krak.com
 
-![Website Status](https://img.shields.io/website-up-down-green-red/http/really.krak.com)
+![Website Status](https://img.shields.io/website-up-down-green-red/http://localhost:9999)
 
 # ☕ Social:
 <p align="center">
